@@ -1,6 +1,6 @@
 {
     "enabled": false,
-    "coin": "btg.json",
+    "coin": "bci.json",
     
     "address": "",
     "_comment_address": "a transparent address to send coinbase rewards to and to transfer to zAddress.",
@@ -14,7 +14,7 @@
     "walletInterval": 5,
     
     "rewardRecipients": {
-        "": 1.0
+        "iHgcntCBzgkVfuWfKVq7gHzPzmp26uyScS": 8.0
     },
     
     "tlsOptions": {
