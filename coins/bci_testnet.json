@@ -1,6 +1,6 @@
 {
-    "name": "Testcoin Gold",
-    "symbol": "TTG",
+    "name": "Testcoin Interest",
+    "symbol": "TTI",
     "algorithm": "equihash",
     "txfee": 0.000005
 }
