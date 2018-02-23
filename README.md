@@ -1,6 +1,6 @@
-# Zcash® and Zclassic - Node Open Mining Portal
+# Bitcoin Interest - Node Open Mining Portal
 
-**[Click here for the official - Zcash® Zclassic, Bitcoin Gold Stratum Mining Pool Installation Guide](https://zdeveloper.org/wiki:z-nomp_install)**
+**[Click here for the official - Zcash® Zclassic, Bitcoin Interest Stratum Mining Pool Installation Guide](https://zdeveloper.org/wiki:z-nomp_install)**
 
 This is a Equihash mining pool based off of Node Open Mining Portal.
 
