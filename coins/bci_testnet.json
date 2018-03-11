@@ -1,5 +1,5 @@
 {
-    "name": "Testcoin Interest",
+    "name": "Bitcoin Interest Testnet",
     "symbol": "TTI",
     "algorithm": "equihash",
     "txfee": 0.000005
