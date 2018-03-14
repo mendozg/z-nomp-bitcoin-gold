@@ -2,6 +2,8 @@
     "name": "Bitcoin Interest",
     "symbol": "BCI",
     "algorithm": "equihash",
-    "txfee": 0.000005
+    "txfee": 0.000005,
+    "charityRewardStartBlockHeight": 513083,
+    "charityAddress": "iHgcntCBzgkVfuWfKVq7gHzPzmp26uyScS"
 }
 
