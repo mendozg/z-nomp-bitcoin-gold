@@ -2,7 +2,7 @@
     "name": "BitcoinInterestTestnet",
     "symbol": "BCIT",
     "algorithm": "equihash",
-    "txfee": 0.000005
+    "txfee": 0.000005,
     "charityRewardStartBlockHeight": 1259654,
     "charityAddress": "n4VLXKMx98qTAdxyd4E9xCDY8bRtcMuSF7"
 }
