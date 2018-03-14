@@ -2,7 +2,7 @@
     "name": "BitcoinInterest",
     "symbol": "BCI",
     "algorithm": "equihash",
-    "peerMagic": "ede4fe2
+    "peerMagic": "ede4fe2",
     "charityRewardStartBlockHeight": 513083,
     "charityAddress": "iHgcntCBzgkVfuWfKVq7gHzPzmp26uyScS"
 }
